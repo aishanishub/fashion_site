@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ca2ee72.css",
+    "main.js": "/static/js/main.9bd15b21.js",
+    "static/media/banner_women.png": "/static/media/banner_women.5a27fc4e4533e57e4676.png",
+    "static/media/banner_mens.png": "/static/media/banner_mens.eed7197157196f319b17.png",
+    "static/media/header_main (2).png": "/static/media/header_main (2).faa309435c3921de729f.png",
+    "static/media/p1_product.png": "/static/media/p1_product.707c8f779dda1f35e936.png",
+    "static/media/product7.png": "/static/media/product7.c4d6859e8f9a063476e5.png",
+    "static/media/product2.png": "/static/media/product2.166cb6d7fc1c139b725d.png",
+    "static/media/product4.png": "/static/media/product4.78c116620a0accc1f759.png",
+    "static/media/product8.png": "/static/media/product8.f2ef163c4953b7764f75.png",
+    "static/media/product5.png": "/static/media/product5.622a7835897145849535.png",
+    "static/media/product3.png": "/static/media/product3.5ca75aa72b01ef84446e.png",
+    "static/media/category4.png": "/static/media/category4.485ed054f9ad7b58c573.png",
+    "static/media/category1.png": "/static/media/category1.9c70b6ef9e45bf8a15e7.png",
+    "static/media/category2.png": "/static/media/category2.c126efac5507a8183689.png",
+    "static/media/product6.png": "/static/media/product6.109635e882fe2a1d9a58.png",
+    "static/media/category3.png": "/static/media/category3.488dc8eb0fbb0a37d8fb.png",
+    "static/media/p2_product_i2.png": "/static/media/p2_product_i2.eca5a125ead893da9ba1.png",
+    "static/media/p2_product_i1.png": "/static/media/p2_product_i1.3edc2408e6e863190d15.png",
+    "static/media/p1_product_i1.png": "/static/media/p1_product_i1.88c52ee910eea22b1f22.png",
+    "static/media/p1_product_i2.png": "/static/media/p1_product_i2.d319ab40e315f1f48863.png",
+    "index.html": "/index.html",
+    "main.4ca2ee72.css.map": "/static/css/main.4ca2ee72.css.map",
+    "main.9bd15b21.js.map": "/static/js/main.9bd15b21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca2ee72.css",
+    "static/js/main.9bd15b21.js"
+  ]
+}
